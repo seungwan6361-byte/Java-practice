@@ -1,4 +1,4 @@
-package Loop;
+package basic.array.Loop;
 
 public class BreakExample {
 
