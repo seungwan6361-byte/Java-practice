@@ -4,7 +4,7 @@ public class SwitchExample {
 
     public static void main(String[] args) {
         // == 좌항우항 동일, = 대입, ! not,
-        String gender = "g";
+        String gender = "f";
 
         // If 문처럼 논리형 조건식이 들어가는 게 아니라
         // 분기를 나눌 기준값이 괄호 안에 들어갑니다. (문자열, 정수만 가능)
